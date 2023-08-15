@@ -1,0 +1,20 @@
+body {
+  padding: 10px;
+}
+
+input {
+  margin: 5px;
+  width:400px;
+}
+
+textarea{
+    width: 410px;
+    height: 200px;
+}
+
+.group{
+    display:flex; 
+    flex-direction:column;
+    justify-content:flex-start;
+    margin-bottom:10px
+    }
